@@ -1,0 +1,130 @@
+body
+{
+    color: black;
+}
+jumbotron 
+{
+    background-color: #dddddd;
+   
+}
+.profile-photo {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+  }
+.icon-size
+{
+    font-size: 30px;
+    margin-left: 10px;
+}
+body
+{
+    background-color: #dddbdb !important;
+}
+.detail
+{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.percentage
+{
+    float:right;
+}
+.jumbotron
+{
+    padding: 0%;
+}
+.logo
+{
+    width: 200px;
+    height: 150px;
+}
+.heading
+{
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #545e69;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+.profession
+{
+    color: #778492;
+}
+.btn-success
+{
+    width:1200px;
+    height:60px;
+}
+.body-color
+{
+    background-color: white;
+}
+p{
+    font-size: 15px;
+   
+}
+.content
+{
+    padding:40px;
+}
+section
+{
+    border: 1px solid;
+    padding: 5px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    margin-bottom: 30px;
+    background-color: white;
+}
+.section-inner
+{
+    padding: 30px;
+}
+.small-section-inner
+{
+    padding: 15px;
+}
+.contact-detail
+{
+   margin: 30px;
+   margin-left: 0px;
+   
+}
+.contact-text
+{
+    color: #3AAA64;
+    margin-left: 15px;
+}
+ul{
+    list-style-type:none;
+    margin-left: -40px;
+    margin-top: 100px;
+}
+li{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.col-3
+{
+    background-color: white; margin-right: 150px;height: 50%;
+}
+.skills
+{
+    margin-top: -80px;
+}
+.row
+{
+    flex-wrap: wrap;
+    display: flex;
+
+}
+.section-wrapper
+{
+    padding-top: 30px;
+    max-width: 1500px;
+}
+
+.container {
+    
+}
